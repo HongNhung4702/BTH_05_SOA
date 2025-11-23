@@ -9,6 +9,7 @@ product_service/venv/
 # Databases
 order_service/db.sqlite3
 product_service/db_products.sqlite3
+report_service/db_reports.sqlite3
 
 # OS/Editor
 *.log
